@@ -1,0 +1,11 @@
+#btn-translate {
+  margin-top: 1rem;
+  display: block;
+}
+
+.outputTxt {
+  margin-top: 1rem;
+  border: 1px solid black;
+  height: 10rem;
+  width: 75%;
+}
